@@ -1,4 +1,3 @@
-
 # ShardeumNet: Effortlessly orchestrating Artificial Intelligence-Powered Decision Making across a Scalable, Highly Available, Fault-Tolerant ShardeumNet Ecosystem Implementation
 > Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
 
